@@ -30,29 +30,9 @@ I'm Ansh Raghav, a student at KIET Deemed to be University, Ghaziabad. I enjoy b
 └── script.js    # Footer year and active nav link
 ```
 
-## Run locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/anshraghav0205/<repo-name>.git
-   ```
-2. Open the folder and double-click `index.html`, or open it in your browser.
-
-## Deploy with GitHub Pages
-
-1. Push the files to a GitHub repository.
-2. Go to **Settings → Pages**.
-3. Under **Source**, choose the `main` branch and the `/ (root)` folder, then save.
-4. Your site will be live at `https://anshraghav0205.github.io/<repo-name>/` after a minute or two.
-
 ## Projects featured
 
 - **Weather Website**: shows current weather and forecast for any city. [View on GitHub](https://github.com/anshraghav0205/mini-website-aws)
-
-## Customize
-
-- Edit the text in `index.html`.
-- Change colors in the `:root` variables at the top of `style.css`.
 
 ## Contact
 
